@@ -13,6 +13,8 @@
 -chapter07: 7장 신경망·딥러닝
 
 #### 교재: 파이토치 첫걸음(한빛미디어,최건호 지음)
+#### 교재: Machine Learning Algorithms From Scratch (https://machinelearningmastery.com/machine-learning-algorithms-from-scratch/)
+
 
 - learnpyTorch
  
